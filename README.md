@@ -54,14 +54,3 @@ I am a Computer Science student at Alexandria University with strong interests i
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
-<h1 align="center">Featured Projects</h1>
-
-<p align="center">
-  Mealify, Heavenly Muse Store, Weather Website, Smart Login System, Movies API Website, E-commerce Store, and GE-EventX Studio.
-</p>
-
-<h1 align="center">Currently Learning</h1>
-
-<p align="center">
-  Advanced React, Next.js, backend development with Node.js, and AI/ML concepts including neural networks and data preprocessing.
-</p>
