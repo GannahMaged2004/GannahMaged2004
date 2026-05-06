@@ -1,5 +1,5 @@
 <h1 align="center">
-  Gannah Maged<br><br>
+  Gannah Eltonsy<br><br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Frontend+Developer;React+and+Next.js+Learner;Node.js+and+MongoDB+Projects;AI+and+Machine+Learning+Enthusiast&center=true&size=28&color=E63946">
   </a>
