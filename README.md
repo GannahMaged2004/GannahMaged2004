@@ -16,6 +16,9 @@ I am a Computer Science student at Alexandria University with strong interests i
 </p>
 
 <p align="center">
+  <a href="https://github.com/GannahMaged2004/GannahMaged2004/raw/main/assets/cv/Gannah-Maged-CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
   <a href="mailto:gannah.eltonsy04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
